@@ -1,9 +1,16 @@
 ### Hi there 👋
-@@ -23,6 +23,7 @@ I am a Python Developer from Russia.
-<!--
+I am a Python Developer from Russia.
+
 **thk4x4/thk4x4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" 
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
